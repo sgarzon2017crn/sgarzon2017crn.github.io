@@ -1,0 +1,28 @@
+../imatges/     back.gif
+../img/         back.gif
+
+../iimatges/    arbre.gif
+../img/         arbre.gif
+
+file:///125/Users/agm2/Sites/m2c5w04/img/paller.gif
+../img/paller.gif
+
+file:///125/Users/agm2/Sites/m2c5w04/img/home.gif
+../img/home.gif
+
+../imatges/     acti.gif
+../img/         acti.gif
+
+1r Canvi
+../imatges/     map.gif
+../img/         map.gif
+
+2n Canvi
+
+../iimatges/
+../img/
+
+3r Canvi
+
+file:///125/Users/agm2/Sites/m2c5w04/img/
+../img/

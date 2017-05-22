@@ -192,6 +192,17 @@
 		background-image: url(../img/experiencies.png);
 	
 	}
+	
+	#productes {
+		margin-top: 25px;
+		background-image: url(../img/experiencies.png);
+	}
+
+	#foro {
+		margin-top: 25px;
+		background-image: url(../img/);
+		background-color: blue;	
+	}
 
 	
 }

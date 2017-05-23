@@ -1,0 +1,48 @@
+@font-face {
+
+font-family: Tibet;
+
+src: url(../Tipos/Tibet.ttf) format(‘truetype’);
+
+}
+@import url('/css/pc.css');
+@import url('/css/mob.css');
+@import url('/css/web.css');
+@import url('/css/mobland.css');
+
+body {
+	background-image: url(../img/fondobg.png);
+	background-size: 100%;
+	position:absolute;
+
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+
+	margin: 0;
+	padding: 0;
+	
+}
+
+p {
+	font-family: Helvetica;
+	text-align: left;
+}
+
+li {
+
+	font-family: Tibet;
+
+}
+
+
+h1{
+	font-family: Arial;
+	position: relative;
+	font-family: tibet;}	
+
+
+
+
+

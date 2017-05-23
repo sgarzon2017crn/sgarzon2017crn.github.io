@@ -1,0 +1,198 @@
+/*------------------------------------------------------------------*/
+
+@media only screen and (min-width: 770px)
+
+{
+
+	#cabecera{
+		height: 500px;
+		margin: 0;
+		text-align: center;
+		background-image: url(../img/Portada.jpg);
+		background-repeat: no-repeat;
+		background-size: 100%;
+	}
+
+	#imag {
+		margin-top: 30px;
+		width: 70%;
+		height: auto;
+		align: center;
+	}
+
+
+	#Contenidor{
+		background-color: white;
+		z-index: -1;
+		background: rgba(0,0,0,0.2);
+		align: center;
+		width: 80%;
+		height: auto;
+		margin: 0 auto;
+		text-align: center;
+		padding: 10px;
+	}
+
+
+	#Contenidorblanc{
+		background-color: white;
+		border: 1px solid #333;
+		align: center;
+		width: 65%;
+		height: auto;
+		margin: 0 auto;
+		text-align: left;
+		padding: 40px;
+		padding-top: 60px;	
+
+	}
+	
+	header {
+		width: 100%;
+		background: #333;
+		position: absolute;
+		top: 500px;
+		left: 0;
+		z-index: 100;	
+		text-align: center;
+		letter-spacing: 1px;
+	}
+
+	#btn-menu {
+		display: none;
+	}
+
+	header label {
+		display: none;
+		width: 30px;
+		height: 10px;
+		padding: 10px;
+		border-radius: 1px solid #fff;
+	}
+
+	header label:hover {
+		cursor: pointer;
+		background: rgba(0,0,0,0.3);
+	}
+
+	.menu {
+		margin-left: 30px;
+
+
+
+	}
+
+	.menu ul {
+		margin: 0;
+		list-style: none;
+		padding: 0;
+		display: flex;
+	}
+
+	.menu li {
+		border-right: 1px solid #fff;
+		flex-grow: 1;
+	}
+
+	.menu li: hover {
+		background: rgba(0,0,0,0.3);
+	}
+
+	.menu li a {
+		display: block;
+		padding: 5px 20px;
+		color: #fff;
+		text-decoration: none;
+	}
+
+
+	#peu {
+		padding-top: 10px;
+		height: auto;
+		background-color: #222;
+		text-align: center;
+		color: #fff;
+	}
+
+	#cnt {
+		padding: 10px;
+	}
+
+	.seccio {
+		height: 408px;
+		margin-top: 10px;
+		border-radius: 20px;
+		color: #fff;
+		background-repeat: no-repeat;
+		background-position: right;
+		text-align: left;
+		text-decoration: underline;
+		line-height: 400px;
+		padding-left: 500px;
+		letter-spacing: 3px;
+	
+	}
+
+	#seccio2 {
+		margin-top: 25px;
+		background-image: url(../img/papeleo.jpg); 
+
+	}
+
+
+
+	#seccio3 {
+	
+		background-image: url(../img/oldmanok.png);
+	
+	}
+
+
+	#seccio4 {
+
+		background-image: url(../img/Gastronomia.png);
+
+	}
+
+
+	#seccio5 {
+
+		background-image: url(../img/senderismo.png);
+	}
+
+
+
+	#seccio6 {
+		
+		background-image: url(../img/quever.png);
+		
+	}
+
+
+	#seccio7 {
+		background-image: url(../img/dades.png);
+		background-color: green;
+	}
+
+	#seccio8 {
+		background-image: url(../img/experiencies.png);
+	}
+
+	#productes {
+		margin-top: 25px;
+		background-image: url(../img/Productes.jpg);
+	}
+
+	#foro {
+		margin-top: 25px;
+		background-color: #222
+	}
+
+	#map {
+		margin-top: 25px;
+		background-color: #222;
+	}
+
+
+	
+}
